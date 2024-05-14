@@ -19,7 +19,9 @@ Hi there! I'm Thanh Pham, but you can call me Jonathan. I'm an avid FPS gamer, w
 
 ### 💼 Projects
 - **[Tastedit](https://tastedit.onrender.com/)**: A unique platform for food enthusiasts to discover and review specific dishes.
-- **Other Projects**: Brief mentions of other key projects can be added here.
+- **[Soundcloud](https://soundcloud-project-m0ku.onrender.com/)**: A clone of SoundCloud, showcasing audio streaming and sharing capabilities.
+- **[Saigon Lodgings](https://saigon-lodgings.onrender.com/)**: A platform to find and review lodgings in Saigon, providing a comprehensive guide for travelers.
+
 
 ### 📊 GitHub Stats
 
