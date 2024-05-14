@@ -1,16 +1,39 @@
-### Hi there 👋
+# Thanh Pham (Jonathan)
 
-<!--
-**JonathanPham2/JonathanPham2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 About Me
+Hi there! I'm Thanh Pham, but you can call me Jonathan. I'm an avid FPS gamer, with a particular passion for Valorant. I have a deep love for learning new things, especially in the world of coding. When I'm not gaming or coding, you can find me playing soccer, hitting the gym, or exploring nature through hiking.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+#### Technical Skills
+- **Frontend**: React, Redux, JavaScript, HTML, CSS
+- **Backend**: Python, Flask, Node.js, Express
+- **Databases**: PostgreSQL, SQL, SQLite, Sequelize, SQLAlchemy
+- **Technologies**: AWS, Docker, RESTful APIs, SocketIO, Linux, GitHub, Git, Postman
+- **Other**: Object-Oriented Programming, CSRF Protection, Database Design, Pair Programming, Test-Driven Development, Problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Soft Skills
+- Customer Service
+- Leadership
+- Consistency in solving problems
+- Problem Solver
+
+### 💼 Projects
+- **[Tastedit](https://tastedit.onrender.com/)**: A unique platform for food enthusiasts to discover and review specific dishes.
+- **Other Projects**: Brief mentions of other key projects can be added here.
+
+### 📊 GitHub Stats
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPham2&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanPham2&theme=radical)
+
+### ✨ Personal Attributes
+While I take my time to understand new concepts thoroughly, once I do, I can handle any challenge with confidence. My dedication and consistency are my greatest strengths, enabling me to solve problems effectively and lead teams successfully.
+
+
+### 📫 Contact
+- **Email**: jonathanphamw22@gmail.com
+- **LinkedIn**: [Jonathan's LinkedIn](https://www.linkedin.com/in/jonathanphammm/)
+
+
+
